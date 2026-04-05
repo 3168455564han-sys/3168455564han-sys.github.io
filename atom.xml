@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>大黑客的网站</title>
+  <title>小韩的安全笔记库</title>
   
-  <subtitle>我是大黑客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>公开的静态知识库</subtitle>
+  <link href="https://xiaohan3586.online/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://xiaohan3586.online/"/>
   <updated>2026-01-27T09:01:44.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://xiaohan3586.online/</id>
   
   <author>
     <name>小韩</name>
@@ -18,48 +18,55 @@
   
   <entry>
     <title>面试题总结</title>
-    <link href="http://example.com/Untitled-2/"/>
-    <id>http://example.com/Untitled-2/</id>
+    <link href="https://xiaohan3586.online/Untitled-2/"/>
+    <id>https://xiaohan3586.online/Untitled-2/</id>
     <published>2026-01-27T09:02:19.000Z</published>
     <updated>2026-01-27T09:01:44.000Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一篇从历史缓存中恢复的文章，目前原始正文内容已经丢失。</p><p>后续你可以直接编辑这篇文章，补充完整的面试题整理内容。</p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇从历史缓存中恢复出来的笔记，目前原始正文已经丢失，但主题方向还在，可以继续往下整理。</p><h2 id="建议整理结构"><a href="#建议整理结构" class="headerlink" title="建议整理结构"></a>建议整理结构</h2><h3 id="1-Web-安全基础"><a href="#1-Web-安全基础" class="headerlink" title="1. Web 安全基础"></a>1. Web 安全基础</h3><ul><li>常见漏洞原理</li><li>SQL 注入与 XSS 的区别</li><li>CSRF 的防御思路</li></ul><h3 id="2-渗透测试流程"><a href="#2-渗透测试流程" class="headerlink" title="2. 渗透测试流程"></a>2. 渗透测试流程</h3><ul><li>信息收集</li><li>漏洞验证</li><li>权限提升</li><li>结果复盘</li></ul><h3 id="3-面试高频题"><a href="#3-面试高频题" class="headerlink" title="3. 面试高频题"></a>3. 面试高频题</h3><ul><li>对称加密与非对称加密</li><li>HTTP 和 HTTPS 的差异</li><li>Linux 常用排障命令</li><li>常见日志位置与分析思路</li></ul><h2 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h2><p>后续你可以直接把这篇文章改造成完整的题库或复习清单。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这是一篇从历史缓存中恢复的文章，目前原始正文内容已经丢失。&lt;/p&gt;
-&lt;p&gt;后续你可以直接编辑这篇文章，补充完整的面试题整理内容。&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;这是一篇从历史缓存中恢复出来的笔记，目前原始正文已经丢失，但主题方向还在，可以继续往下整理。&lt;/p&gt;
+&lt;h2 id=&quot;建议整理结构&quot;&gt;&lt;a href=&quot;#建议整理结构&quot; class=&quot;headerlink&quot; title=&quot;建议整理结构&quot;&gt;&lt;/a&gt;建议整理结构&lt;/h2&gt;&lt;h3</summary>
       
     
     
     
+    <category term="面试整理" scheme="https://xiaohan3586.online/categories/%E9%9D%A2%E8%AF%95%E6%95%B4%E7%90%86/"/>
+    
+    
+    <category term="面试" scheme="https://xiaohan3586.online/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+    <category term="学习笔记" scheme="https://xiaohan3586.online/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>小韩的第一篇博客</title>
-    <link href="http://example.com/Untitled-1/"/>
-    <id>http://example.com/Untitled-1/</id>
+    <link href="https://xiaohan3586.online/Untitled-1/"/>
+    <id>https://xiaohan3586.online/Untitled-1/</id>
     <published>2026-01-27T07:35:40.000Z</published>
     <updated>2026-01-27T08:52:59.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/img/%E5%B0%8F%E9%9F%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.png" alt="1"></p>]]></content>
+    <content type="html"><![CDATA[<p>这篇笔记是从历史缓存里恢复出来的首篇文章，原始正文已经遗失，现在保留一份可继续编辑的版本。</p><h2 id="当前保留下来的内容"><a href="#当前保留下来的内容" class="headerlink" title="当前保留下来的内容"></a>当前保留下来的内容</h2><ul><li>最早发布时间与更新时间</li><li>文章标题</li><li>一张首篇博客配图的引用</li><li>这篇文章曾经属于建站类记录</li></ul><h2 id="后续可以怎么补"><a href="#后续可以怎么补" class="headerlink" title="后续可以怎么补"></a>后续可以怎么补</h2><p>如果你还记得原文内容，可以直接在这篇笔记里继续补充：</p><ol><li>当时为什么开始写博客</li><li>搭建过程中用到的工具和踩过的坑</li><li>未来准备记录哪些安全学习方向</li></ol><p><img src="/img/%E5%B0%8F%E9%9F%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.svg" alt="首篇博客配图"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/%E5%B0%8F%E9%9F%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.png&quot; alt=&quot;1&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;这篇笔记是从历史缓存里恢复出来的首篇文章，原始正文已经遗失，现在保留一份可继续编辑的版本。&lt;/p&gt;
+&lt;h2 id=&quot;当前保留下来的内容&quot;&gt;&lt;a href=&quot;#当前保留下来的内容&quot; class=&quot;headerlink&quot; title=&quot;当前保留下来的内容&quot;&gt;&lt;/a&gt;当前保留下来</summary>
       
     
     
     
-    <category term="模版" scheme="http://example.com/categories/%E6%A8%A1%E7%89%88/"/>
+    <category term="站点搭建" scheme="https://xiaohan3586.online/categories/%E7%AB%99%E7%82%B9%E6%90%AD%E5%BB%BA/"/>
     
     
-    <category term="模板" scheme="http://example.com/tags/%E6%A8%A1%E6%9D%BF/"/>
+    <category term="建站记录" scheme="https://xiaohan3586.online/tags/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="归档恢复" scheme="https://xiaohan3586.online/tags/%E5%BD%92%E6%A1%A3%E6%81%A2%E5%A4%8D/"/>
     
   </entry>
   
